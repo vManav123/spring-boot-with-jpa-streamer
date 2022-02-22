@@ -58,5 +58,5 @@ JPAstreamer is a lightweight extension for any JPA provider that allows creation
 
 ## JPA Streamer Function
 <div style="border-radius:23px">
-  <img border="0" alt="Table" src="https://user-images.githubusercontent.com/25712816/128547952-d59a6936-de3d-47f4-9ecd-188829c02e2b.PNG" width="1000" height="900">
+  <img border="0" alt="Table" src="https://user-images.githubusercontent.com/25712816/128547952-d59a6936-de3d-47f4-9ecd-188829c02e2b.PNG" width="500" height="400">
 </div>  
